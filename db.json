@@ -1,7 +1,55 @@
 {
-  Work:[
-  {
-  id:1
-  }
+  "ActivityData": [
+    {
+      "id": 1,
+      "title1": "Web Developer --> IT SCHOOL",
+      "year":"2019 - Present",
+      "map":"bx bxs-map",
+      "MapName":"Uzbekiston , Namangan , Chust",
+      "GmailLogo":"bx bxl-gmail",
+      "Gmail":"aseducoder@gmail.com",
+      "title":"I learned the front end part of web programming here",
+      "button1":"HTML",
+      "button7":"CSS",
+      "button2":"SASS",
+      "button3":"Bootstrap",
+      "button4":"JavaScript",
+      "button5":"React.js",
+      "button6":"Tailwint"
+    },
+        {
+      "id": 2,
+      "title1": "Web Developer IT SCHOOL",
+      "year":"2019 - Present",
+      "map":"bx bxs-map",
+      "MapName":"Uzbekiston , Namangan , Chust",
+      "GmailLogo":"bx bxl-gmail",
+      "Gmail":"aseducoder@gmail.com",
+      "title":"Developing front-end and mobile app solutions (B2C, B2B) in Travel Tech on React/Next.js framework and Flutter SDK.",
+      "button1":"HTML",
+      "button7":"CSS",
+      "button2":"SASS",
+      "button3":"Bootstrap",
+      "button4":"JavaScript",
+      "button5":"React.js",
+      "button6":"Tailwint"
+    },
+        {
+      "id": 3,
+      "title1": "Web Developer IT SCHOOL",
+      "year":"2019 - Present",
+      "map":"bx bxs-map",
+      "MapName":"Uzbekiston , Namangan , Chust",
+      "GmailLogo":"bx bxl-gmail",
+      "Gmail":"aseducoder@gmail.com",
+      "title":"Developing front-end and mobile app solutions (B2C, B2B) in Travel Tech on React/Next.js framework and Flutter SDK.",
+      "button1":"HTML",
+      "button7":"CSS",
+      "button2":"SASS",
+      "button3":"Bootstrap",
+      "button4":"JavaScript",
+      "button5":"React.js",
+      "button6":"Tailwint"
+    }
   ]
 }
